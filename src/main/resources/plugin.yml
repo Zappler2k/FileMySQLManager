@@ -1,0 +1,4 @@
+name: MySQLConnector
+main: de.filemysqlmanager.spigot.SpigotCore
+version: 1.0.0
+description: MySQL Connector for Java with Spigot and BungeeCord support
